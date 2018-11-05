@@ -1,6 +1,5 @@
-spotify-this-song,"I Want it That Way"Venue Name: Rogers Place
+spotify-this-song,"I Want it That Way";
 
-Venue Location: Edmonton, Canada
+concert-this,"Foo Fighters";
 
-Date: Tuesday November 6th, 2018
----------------------------
+movie-this,"Top Gun"

@@ -3,40 +3,31 @@ require("dotenv").config();
 // Require the key.js file 
 var keys = require('./keys.js');
 
-// Require NPMs
+// Required NPMs
 var Spotify = require ('node-spotify-api');
 var request = require ('request');
 var moment = require ('moment');
 
-// Save key to a variable 
 var spotify = new Spotify(keys.spotify);
 
-// Include file system module
 var fs = require ("fs"); 
+var arguments = process.argv;
+var firstInput = "";
+var secondInput = "";
 
-// Grab all of the command line arguments from Node
-var nodeArgs = process.argv;
-
-var userInput = "";
-var nextUserInput = "";
-
-//Grab user input for songs, artists and movie names
-for (var i = 3; i < nodeArgs.length; i++) {
-
-    //If userInput is more than 1 word
-    if (i > 3 && i < nodeArgs.length) {
-        userInput = userInput + "%20" + nodeArgs[i];
+//Names and Titles entered
+for (var i = 3; i < arguments.length; i++) {
+    if (i > 3 && i < arguments.length) {
+        firstInput = firstInput + "%20" + arguments[i];
     }
-    //If userInput is only 1 word
     else {
-        userInput += nodeArgs[i];
+        firstInput += arguments[i];
     }
-    console.log(userInput);
+    console.log(firstInput);
 }
 
-//Remove %20 when pushing to log.txt
-for (var i = 3; i < nodeArgs.length; i++) {
-    nextUserInput = userInput.replace(/%20/g, " ");
+for (var i = 3; i < arguments.length; i++) {
+    secondInput = firstInput.replace(/%20/g, " ");
 }
 
 var userCommand = process.argv[2];
@@ -44,41 +35,33 @@ console.log(userCommand);
 console.log(process.argv);
 runLiri();
 
-//Switch statement for commands
 function runLiri() {
     switch (userCommand) {
         case "concert-this":
-
-            //Append userInput to log.txt
-            fs.appendFileSync("log.txt", nextUserInput + "\n----------------\n", function (error) {
+            fs.appendFileSync("log.txt", secondInput + "\n----------------\n", function (error) {
                 if (error) {
                     console.log(error);
                 };
             });
 
-            //Run request to bandsintown with the specified artist
-            var queryURL = "https://rest.bandsintown.com/artists/" + userInput + "/events?app_id=codingbootcamp"
+            //Search function for Bands In Town
+            var queryURL = "https://rest.bandsintown.com/artists/" + firstInput + "/events?app_id=codingbootcamp"
             request(queryURL, function (error, response, body) {
-                //If no error and response is a success
                 if (!error && response.statusCode === 200) {
-                    //Parse the json response
                     var data = JSON.parse(body);
-                    //Loop through array
                     for (var i = 0; i < data.length; i++) {
-                        //Get venue name
+                        
+                        //Venue name result
                         console.log("Venue: " + data[i].venue.name);
-                        //Append data to log.txt
                         fs.appendFileSync("log.txt", "Venue: " + data[i].venue.name + "\n", function (error) {
                             if (error) {
                                 console.log(error);
                             };
                         });
 
-                        //Get venue location
-                        //If statement for concerts without a region
+                        //Venue location result
                         if (data[i].venue.region == "") {
                             console.log("Location: " + data[i].venue.city + ", " + data[i].venue.country);
-                            //Append data to log.txt
                             fs.appendFileSync("log.txt", "Location: " + data[i].venue.city + ", " + data[i].venue.country + "\n", function (error) {
                                 if (error) {
                                     console.log(error);
@@ -87,7 +70,6 @@ function runLiri() {
 
                         } else {
                             console.log("Location: " + data[i].venue.city + ", " + data[i].venue.region + ", " + data[i].venue.country);
-                            //Append data to log.txt
                             fs.appendFileSync("log.txt", "Location: " + data[i].venue.city + ", " + data[i].venue.region + ", " + data[i].venue.country + "\n", function (error) {
                                 if (error) {
                                     console.log(error);
@@ -95,7 +77,7 @@ function runLiri() {
                             });
                         }
 
-                        //Get date of show
+                        //Concert date result
                         var date = data[i].datetime;
                         date = moment(date).format("MM/DD/YYYY");
                         console.log("Date: " + date)
@@ -114,14 +96,14 @@ function runLiri() {
         case "spotify-this-song":
         console.log("here");
             //If statement for no song provided
-            if (!userInput) {
-                userInput = "The%20Sign";
-                nextUserInput = userInput.replace(/%20/g, " ");
+            if (!firstInput) {
+                firstInput = "The%20Sign";
+                secondInput = firstInput.replace(/%20/g, " ");
 
             }
 
             //Append userInput to log.txt
-            fs.appendFileSync("log.txt", nextUserInput + "\n----------------\n", function (error) {
+            fs.appendFileSync("log.txt", secondInput + "\n----------------\n", function (error) {
                 if (error) {
                     console.log(error);
                 };
@@ -131,7 +113,7 @@ function runLiri() {
             spotify.search({
 
                 type: "track",
-                query: userInput
+                query: firstInput
             }, function (err, data) {
                 if (err) {
                     console.log("Error occured: " + err)
@@ -169,20 +151,20 @@ function runLiri() {
             break;
         case "movie-this":
             //If statement for no movie provided
-            if (!userInput) {
-                userInput = "Mr%20Nobody";
-                nextUserInput = userInput.replace(/%20/g, " ");
+            if (!firstInput) {
+                firstInput = "Mr%20Nobody";
+                secondInput = firstInput.replace(/%20/g, " ");
             }
 
             //Append userInput to log.txt
-            fs.appendFileSync("log.txt", nextUserInput + "\n----------------\n", function (error) {
+            fs.appendFileSync("log.txt", secondInput + "\n----------------\n", function (error) {
                 if (error) {
                     console.log(error);
                 };
             });
 
             //Run request to OMDB
-            var queryURL = "https://www.omdbapi.com/?t=" + userInput + "&y=&plot=short&apikey=trilogy"
+            var queryURL = "https://www.omdbapi.com/?t=" + firstInput + "&y=&plot=short&apikey=trilogy"
             request(queryURL, function (error, response, body) {
                 if (!error && response.statusCode === 200) {
                     var info = JSON.parse(body);
@@ -222,8 +204,8 @@ if (userCommand == "do-what-it-says") {
         //Split data into array
         var textArr = data.split(",");
         userCommand = textArr[0];
-        userInput = textArr[1];
-        nextUserInput = userInput.replace(/%20/g, " ");
+        firstInput = textArr[1];
+        secondInput = firstInput.replace(/%20/g, " ");
         runLiri();
     })
 }
