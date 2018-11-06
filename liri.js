@@ -30,15 +30,15 @@ for (var i = 3; i < arguments.length; i++) {
     secondInput = firstInput.replace(/%20/g, " ");
 }
 
-var userCommand = process.argv[2];
-console.log(userCommand);
+var userCom = process.argv[2];
+console.log(userCom);
 console.log(process.argv);
 runLiri();
 
 function runLiri() {
-    switch (userCommand) {
+    switch (userCom) {
         case "concert-this":
-            fs.appendFileSync("log.txt", secondInput + "\n----------------\n", function (error) {
+            fs.appendFileSync("log.txt", secondInput + "\n-----------\n", function (error) {
                 if (error) {
                     console.log(error);
                 };
@@ -81,13 +81,12 @@ function runLiri() {
                         var date = data[i].datetime;
                         date = moment(date).format("MM/DD/YYYY");
                         console.log("Date: " + date)
-                        //Append data to log.txt
-                        fs.appendFileSync("log.txt", "Date: " + date + "\n----------------\n", function (error) {
+                        fs.appendFileSync("log.txt", "Date: " + date + "\n-----------\n", function (error) {
                             if (error) {
                                 console.log(error);
                             };
                         });
-                        console.log("----------------")
+                        console.log("-----------")
                     }
                 }
             });
@@ -95,15 +94,12 @@ function runLiri() {
             break;
         case "spotify-this-song":
         console.log("here");
-            //If statement for no song provided
             if (!firstInput) {
                 firstInput = "The%20Sign";
                 secondInput = firstInput.replace(/%20/g, " ");
-
             }
 
-            //Append userInput to log.txt
-            fs.appendFileSync("log.txt", secondInput + "\n----------------\n", function (error) {
+            fs.appendFileSync("log.txt", secondInput + "\n-----------\n", function (error) {
                 if (error) {
                     console.log(error);
                 };
@@ -119,27 +115,20 @@ function runLiri() {
                     console.log("Error occured: " + err)
                 }
 
-                //Assign data being used to a variable
                 var info = data.tracks.items
-                // console.log(info);
 
-                //Loop through all the "items" array
                 for (var i = 0; i < info.length; i++) {
-                    //Store "album" object to variable
                     var albumObject = info[i].album;
                     var trackName = info[i].name
                     var preview = info[i].preview_url
-                    //Store "artists" array to variable
                     var artistsInfo = albumObject.artists
-                    //Loop through "artists" array
                     for (var j = 0; j < artistsInfo.length; j++) {
                         console.log("Artist: " + artistsInfo[j].name)
                         console.log("Song Name: " + trackName)
                         console.log("Preview of Song: " + preview)
                         console.log("Album Name: " + albumObject.name)
-                        console.log("----------------")
-                        //Append data to log.txt
-                        fs.appendFileSync("log.txt", "Artist: " + artistsInfo[j].name + "\nSong Name: " + trackName + "\nPreview of Song: " + preview + "\nAlbum Name: " + albumObject.name + "\n----------------\n", function (error) {
+                        console.log("-----------")
+                        fs.appendFileSync("log.txt", "Artist: " + artistsInfo[j].name + "\nSong Name: " + trackName + "\nPreview of Song: " + preview + "\nAlbum Name: " + albumObject.name + "\n-----------\n", function (error) {
                             if (error) {
                                 console.log(error);
                             };
@@ -150,20 +139,18 @@ function runLiri() {
 
             break;
         case "movie-this":
-            //If statement for no movie provided
             if (!firstInput) {
                 firstInput = "Mr%20Nobody";
                 secondInput = firstInput.replace(/%20/g, " ");
             }
 
-            //Append userInput to log.txt
-            fs.appendFileSync("log.txt", secondInput + "\n----------------\n", function (error) {
+            fs.appendFileSync("log.txt", secondInput + "\n-----------\n", function (error) {
                 if (error) {
                     console.log(error);
                 };
             });
 
-            //Run request to OMDB
+            //Search request to OMDB
             var queryURL = "https://www.omdbapi.com/?t=" + firstInput + "&y=&plot=short&apikey=trilogy"
             request(queryURL, function (error, response, body) {
                 if (!error && response.statusCode === 200) {
@@ -177,33 +164,27 @@ function runLiri() {
                     console.log("Plot: " + info.Plot)
                     console.log("Actors: " + info.Actors)
 
-                    //Append data to log.txt
                     fs.appendFileSync("log.txt", "Title: " + info.Title + "\nRelease Year: " + info.Year + "\nIMDB Rating: " + info.Ratings[0].Value + "\nRating: " +
-                        info.Ratings[1].Value + "\nCountry: " + info.Country + "\nLanguage: " + info.Language + "\nPlot: " + info.Plot + "\nActors: " + info.Actors + "\n----------------\n",
+                        info.Ratings[1].Value + "\nCountry: " + info.Country + "\nLanguage: " + info.Language + "\nPlot: " + info.Plot + "\nActors: " + info.Actors + "\n-----------\n",
                         function (error) {
                             if (error) {
                                 console.log(error);
-                            };
-                        });
+                        };
+                    });
                 }
             });
-
-            break;
+        break;
     }
 }
 
-if (userCommand == "do-what-it-says") {
+if (userCom == "do-what-it-says") {
     var fs = require("fs");
-
-    //Read random.txt file
     fs.readFile("random.txt", "utf8", function (error, data) {
         if (error) {
             return console.log(error)
         }
-
-        //Split data into array
         var textArr = data.split(",");
-        userCommand = textArr[0];
+        userCom = textArr[0];
         firstInput = textArr[1];
         secondInput = firstInput.replace(/%20/g, " ");
         runLiri();

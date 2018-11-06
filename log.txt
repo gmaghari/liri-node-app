@@ -1,940 +1,4 @@
-Drake
-----------------
-Venue: Rogers Arena
-Location: Vancouver, Canada
-Date: 11/04/2018
-----------------
-Venue: Rogers Place
-Location: Edmonton, Canada
-Date: 11/06/2018
-----------------
-Venue: Rogers Place
-Location: Edmonton, Canada
-Date: 11/07/2018
-----------------
-Venue: Enterprise Center
-Location: Saint Louis, MO, United States
-Date: 11/10/2018
-----------------
-Venue: AmericanAirlines Arena
-Location: Miami, FL, United States
-Date: 11/13/2018
-----------------
-Venue: AmericanAirlines Arena
-Location: Miami, FL, United States
-Date: 11/14/2018
-----------------
-Venue: State Farm Arena
-Location: Atlanta, GA, United States
-Date: 11/16/2018
-----------------
-Venue: State Farm Arena
-Location: Atlanta, GA, United States
-Date: 11/17/2018
-----------------
-Venue: Chateau Le Jardin Event Venue
-Location: Woodbridge, Canada
-Date: 11/29/2018
-----------------
-Venue: Accorhotels Arena
-Location: Paris, France
-Date: 03/08/2019
-----------------
-Gone
-----------------
-Artist: Juice WRLD
-Song Name: Long Gone
-Preview of Song: null
-Album Name: Goodbye & Good Riddance
-----------------
-Artist: Logan Mize
-Song Name: Better Off Gone
-Preview of Song: https://p.scdn.co/mp3-preview/314a65b4eba6b21b7dc45b324b9fddfad65c4096?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Come Back Road
-----------------
-Artist: Kelly Clarkson
-Song Name: Since U Been Gone
-Preview of Song: https://p.scdn.co/mp3-preview/6e39adc77aba227544f11251414bd89824e0eb96?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Breakaway
-----------------
-Artist: Rihanna
-Song Name: Umbrella
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Drake
-Song Name: Best I Ever Had
-Preview of Song: null
-Album Name: So Far Gone
-----------------
-Artist: Paris
-Song Name: GONE (feat. Trippie Redd)
-Preview of Song: https://p.scdn.co/mp3-preview/973938433502a62e72535758b0af1b99535acba8?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: ONE NIGHT IN PARIS
-----------------
-Artist: Eminem
-Song Name: When I'm Gone
-Preview of Song: null
-Album Name: Curtain Call (Deluxe)
-----------------
-Artist: Phillip Phillips
-Song Name: Gone, Gone, Gone
-Preview of Song: null
-Album Name: The World From The Side Of The Moon (Deluxe)
-----------------
-Artist: Rihanna
-Song Name: Disturbia
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Five Finger Death Punch
-Song Name: Gone Away
-Preview of Song: https://p.scdn.co/mp3-preview/ba3073bc08b684ef111f4235d37208079ed70d8a?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: A Decade of Destruction
-----------------
-Artist: Rihanna
-Song Name: Take A Bow
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Bazzi
-Song Name: Gone
-Preview of Song: https://p.scdn.co/mp3-preview/20ed6e0be4f889de4423decef8f959189d6458e8?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: COSMIC
-----------------
-Artist: 3 Doors Down
-Song Name: When I'm Gone
-Preview of Song: null
-Album Name: Away From The Sun
-----------------
-Artist: Rihanna
-Song Name: Don't Stop The Music
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Lady Gaga
-Song Name: Too Far Gone
-Preview of Song: null
-Album Name: A Star Is Born Soundtrack (Without Dialogue)
-----------------
-Artist: Bradley Cooper
-Song Name: Too Far Gone
-Preview of Song: null
-Album Name: A Star Is Born Soundtrack (Without Dialogue)
-----------------
-Artist: Rich The Kid
-Song Name: Too Gone (feat. Khalid)
-Preview of Song: null
-Album Name: The World Is Yours
-----------------
-Artist: T.I.
-Song Name: Dead And Gone (feat. Justin Timberlake)
-Preview of Song: https://p.scdn.co/mp3-preview/66fcdde9a21b8b63fa4fdc995ac8c0b17c8b113f?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Paper Trail
-----------------
-Artist: Slipknot
-Song Name: Psychosocial
-Preview of Song: https://p.scdn.co/mp3-preview/ec1ef486abd160951e4ecaaa513f67243279577d?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: All Hope Is Gone
-----------------
-Artist: Sleeping At Last
-Song Name: Already Gone
-Preview of Song: https://p.scdn.co/mp3-preview/0755e6099906435aa781c5f27947d4b6e4345542?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Already Gone
-----------------
-Artist: Chris Cagle
-Song Name: What Kinda Gone
-Preview of Song: null
-Album Name: My Life's Been A Country Song
-----------------
-jaws
-----------------
-Title: Jaws
-Release Year: 1975
-IMDB Rating: 8.0/10
-Rating: 97%
-Country: USA
-Language: English
-Plot: A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wreaking havoc in a beach resort.
-Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
-----------------
-"I Want it That Way"
-----------------
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: The Hits--Chapter One
-----------------
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Millennium
-----------------
-Artist: Anthem Lights
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Covers Part IV
-----------------
-Artist: Tyler and Mark
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Beautiful Dreams
-----------------
-Artist: Various Artists
-Song Name: I Want It That Way
-Preview of Song: null
-Album Name: Punk Goes Pop
-----------------
-Artist: "Weird Al" Yankovic
-Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-Preview of Song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Poodle Hat
-----------------
-Artist: Manuel Costa
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: I Want It That Way
-----------------
-Artist: Various Artists
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: 90 Sweet 90s Hits!
-----------------
-Artist: NKOTBSB
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: NKOTBSB
-----------------
-Artist: New Kids On The Block
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: NKOTBSB
-----------------
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: NKOTBSB
-----------------
-Artist: Boyce Avenue
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Cover Sessions, Vol. 2
-----------------
-Artist: Glee Cast
-Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Preview of Song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-----------------
-Artist: Steel Panther
-Song Name: I Want It That Way
-Preview of Song: null
-Album Name: I Want It That Way
-----------------
-Artist: Landon Austin
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: I Want It That Way
-----------------
-Artist: Julia Sheer
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: I Want It That Way
-----------------
-Artist: Scary Pockets
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Nu Funk
-----------------
-Artist: Scott Bradlee's Postmodern Jukebox
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Selfies on Kodachrome
-----------------
-Artist: "Weird Al" Yankovic
-Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-Preview of Song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: The Essential "Weird Al" Yankovic
-----------------
-Artist: Various Artists
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: NOW That's What I Call 90s Pop
-----------------
-Artist: The Cooltrane Quartet
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/d29c9d24ac633386d7b1a1fda6e49500aa84048a?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Cocktails & Dreams
-----------------
-Artist: #90s Update
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: #90s Update
-----------------
-Artist: Scott Bradlee's Postmodern Jukebox
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: PMJ Is For Lovers: The Love Song Collection
-----------------
-Gone
-----------------
-Artist: Juice WRLD
-Song Name: Long Gone
-Preview of Song: null
-Album Name: Goodbye & Good Riddance
-----------------
-Artist: Logan Mize
-Song Name: Better Off Gone
-Preview of Song: https://p.scdn.co/mp3-preview/314a65b4eba6b21b7dc45b324b9fddfad65c4096?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Come Back Road
-----------------
-Artist: Kelly Clarkson
-Song Name: Since U Been Gone
-Preview of Song: https://p.scdn.co/mp3-preview/6e39adc77aba227544f11251414bd89824e0eb96?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Breakaway
-----------------
-Artist: Rihanna
-Song Name: Umbrella
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Drake
-Song Name: Best I Ever Had
-Preview of Song: null
-Album Name: So Far Gone
-----------------
-Artist: Paris
-Song Name: GONE (feat. Trippie Redd)
-Preview of Song: https://p.scdn.co/mp3-preview/973938433502a62e72535758b0af1b99535acba8?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: ONE NIGHT IN PARIS
-----------------
-Artist: Eminem
-Song Name: When I'm Gone
-Preview of Song: null
-Album Name: Curtain Call (Deluxe)
-----------------
-Artist: Phillip Phillips
-Song Name: Gone, Gone, Gone
-Preview of Song: null
-Album Name: The World From The Side Of The Moon (Deluxe)
-----------------
-Artist: Rihanna
-Song Name: Disturbia
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Five Finger Death Punch
-Song Name: Gone Away
-Preview of Song: https://p.scdn.co/mp3-preview/ba3073bc08b684ef111f4235d37208079ed70d8a?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: A Decade of Destruction
-----------------
-Artist: Rihanna
-Song Name: Take A Bow
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Bazzi
-Song Name: Gone
-Preview of Song: https://p.scdn.co/mp3-preview/20ed6e0be4f889de4423decef8f959189d6458e8?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: COSMIC
-----------------
-Artist: 3 Doors Down
-Song Name: When I'm Gone
-Preview of Song: null
-Album Name: Away From The Sun
-----------------
-Artist: Rihanna
-Song Name: Don't Stop The Music
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Lady Gaga
-Song Name: Too Far Gone
-Preview of Song: null
-Album Name: A Star Is Born Soundtrack (Without Dialogue)
-----------------
-Artist: Bradley Cooper
-Song Name: Too Far Gone
-Preview of Song: null
-Album Name: A Star Is Born Soundtrack (Without Dialogue)
-----------------
-Artist: Rich The Kid
-Song Name: Too Gone (feat. Khalid)
-Preview of Song: null
-Album Name: The World Is Yours
-----------------
-Artist: T.I.
-Song Name: Dead And Gone (feat. Justin Timberlake)
-Preview of Song: https://p.scdn.co/mp3-preview/66fcdde9a21b8b63fa4fdc995ac8c0b17c8b113f?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Paper Trail
-----------------
-Artist: Slipknot
-Song Name: Psychosocial
-Preview of Song: https://p.scdn.co/mp3-preview/ec1ef486abd160951e4ecaaa513f67243279577d?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: All Hope Is Gone
-----------------
-Artist: Sleeping At Last
-Song Name: Already Gone
-Preview of Song: https://p.scdn.co/mp3-preview/0755e6099906435aa781c5f27947d4b6e4345542?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Already Gone
-----------------
-Artist: Chris Cagle
-Song Name: What Kinda Gone
-Preview of Song: null
-Album Name: My Life's Been A Country Song
-----------------
-Meow
-----------------
-Artist: CLC
-Song Name: Meow Meow
-Preview of Song: https://p.scdn.co/mp3-preview/db0ad168a66daa71389d08f3a3db6b7b5875cbc9?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: CRYSTYLE
-----------------
-Artist: Or3o
-Song Name: Meow
-Preview of Song: https://p.scdn.co/mp3-preview/af2b736d1ee840f4127b88dfa9aadade928e93a1?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Meow
-----------------
-Artist: Anamanaguchi
-Song Name: Meow
-Preview of Song: https://p.scdn.co/mp3-preview/88a6096cb9f4cde40dbfd3723bd781bcdc9acca2?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Endless Fantasy
-----------------
-Artist: Run The Jewels
-Song Name: Meowpurrdy - El-P Remix
-Preview of Song: null
-Album Name: Meow The Jewels
-----------------
-Artist: Run The Jewels
-Song Name: Oh My Darling Don't Meow - Just Blaze Remix
-Preview of Song: null
-Album Name: Meow The Jewels
-----------------
-Artist: Azazal
-Song Name: I Said Meow
-Preview of Song: https://p.scdn.co/mp3-preview/078473ccb83af9f6948e2a80e17e494721fc1c5a?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: I Said Meow
-----------------
-Artist: Run The Jewels
-Song Name: Close Your Eyes And Meow To Fluff - Geoff Barrow Remix
-Preview of Song: null
-Album Name: Meow The Jewels
-----------------
-Artist: Rx Bandits
-Song Name: Meow! Meow! Space Tiger
-Preview of Song: https://p.scdn.co/mp3-preview/05c5bc4f86912eb6671c7c83c3b7cedb7fdecb04?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Gemini, Her Majesty
-----------------
-Artist: Run The Jewels
-Song Name: Paw Due Respect - Blood Diamonds Remix
-Preview of Song: null
-Album Name: Meow The Jewels
-----------------
-Artist: Run The Jewels
-Song Name: Pawfluffer Night - Zola Jesus Remix
-Preview of Song: null
-Album Name: Meow The Jewels
-----------------
-Artist: Run The Jewels
-Song Name: Meowrly - BOOTS Remix
-Preview of Song: null
-Album Name: Meow The Jewels
-----------------
-Artist: Zooparky
-Song Name: The Cat Meow
-Preview of Song: https://p.scdn.co/mp3-preview/77c85219139bd929e79b9e6709fb1734144ec1ce?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Zooparky, Vol. 1 (English)
-----------------
-Artist: Sir Meow
-Song Name: I'm Here
-Preview of Song: https://p.scdn.co/mp3-preview/68849c5b2f8b014c863295e6b41e1a90dc6371d2?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: I'm Here
-----------------
-Artist: Azazal
-Song Name: I Said Meow
-Preview of Song: https://p.scdn.co/mp3-preview/e21b9f9e598c497a94621e0c4486af5ea813f553?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: I Said Meow
-----------------
-Artist: Said
-Song Name: I Said Meow
-Preview of Song: https://p.scdn.co/mp3-preview/e21b9f9e598c497a94621e0c4486af5ea813f553?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: I Said Meow
-----------------
-Artist: Run The Jewels
-Song Name: All Meow Life - Nick Hook Remix
-Preview of Song: null
-Album Name: Meow The Jewels
-----------------
-Artist: Akwid
-Song Name: Qué Quiere La Nena ?
-Preview of Song: null
-Album Name: E.S.L.
-----------------
-Artist: Party Favor & Zooly
-Song Name: Meow (Original Mix)
-Preview of Song: https://p.scdn.co/mp3-preview/52c8609eca3306b35beb26eecac02b6c047b2554?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Meow
-----------------
-Artist: Run The Jewels
-Song Name: Lie, Cheat, Meow - Prince Paul Remix
-Preview of Song: null
-Album Name: Meow The Jewels
-----------------
-Artist: Azazal
-Song Name: Don't Give A Meow
-Preview of Song: https://p.scdn.co/mp3-preview/c4738f8e3342c258adcf1f5dcad6e54d8101dad0?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Don't Give A Meow
-----------------
-Artist: Azazal
-Song Name: Right Meow
-Preview of Song: https://p.scdn.co/mp3-preview/aa1a352fec349933c8497cd3e83c782c925403c2?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Right Meow
-----------------
-Gone
-----------------
-Artist: Juice WRLD
-Song Name: Long Gone
-Preview of Song: null
-Album Name: Goodbye & Good Riddance
-----------------
-Artist: Logan Mize
-Song Name: Better Off Gone
-Preview of Song: https://p.scdn.co/mp3-preview/314a65b4eba6b21b7dc45b324b9fddfad65c4096?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Come Back Road
-----------------
-Artist: Kelly Clarkson
-Song Name: Since U Been Gone
-Preview of Song: https://p.scdn.co/mp3-preview/6e39adc77aba227544f11251414bd89824e0eb96?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Breakaway
-----------------
-Artist: Rihanna
-Song Name: Umbrella
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Drake
-Song Name: Best I Ever Had
-Preview of Song: null
-Album Name: So Far Gone
-----------------
-Artist: Paris
-Song Name: GONE (feat. Trippie Redd)
-Preview of Song: https://p.scdn.co/mp3-preview/973938433502a62e72535758b0af1b99535acba8?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: ONE NIGHT IN PARIS
-----------------
-Artist: Eminem
-Song Name: When I'm Gone
-Preview of Song: null
-Album Name: Curtain Call (Deluxe)
-----------------
-Artist: Phillip Phillips
-Song Name: Gone, Gone, Gone
-Preview of Song: null
-Album Name: The World From The Side Of The Moon (Deluxe)
-----------------
-Artist: Rihanna
-Song Name: Disturbia
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Five Finger Death Punch
-Song Name: Gone Away
-Preview of Song: https://p.scdn.co/mp3-preview/ba3073bc08b684ef111f4235d37208079ed70d8a?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: A Decade of Destruction
-----------------
-Artist: Rihanna
-Song Name: Take A Bow
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Bazzi
-Song Name: Gone
-Preview of Song: https://p.scdn.co/mp3-preview/20ed6e0be4f889de4423decef8f959189d6458e8?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: COSMIC
-----------------
-Artist: 3 Doors Down
-Song Name: When I'm Gone
-Preview of Song: null
-Album Name: Away From The Sun
-----------------
-Artist: Rihanna
-Song Name: Don't Stop The Music
-Preview of Song: null
-Album Name: Good Girl Gone Bad: Reloaded
-----------------
-Artist: Lady Gaga
-Song Name: Too Far Gone
-Preview of Song: null
-Album Name: A Star Is Born Soundtrack (Without Dialogue)
-----------------
-Artist: Bradley Cooper
-Song Name: Too Far Gone
-Preview of Song: null
-Album Name: A Star Is Born Soundtrack (Without Dialogue)
-----------------
-Artist: Rich The Kid
-Song Name: Too Gone (feat. Khalid)
-Preview of Song: null
-Album Name: The World Is Yours
-----------------
-Artist: T.I.
-Song Name: Dead And Gone (feat. Justin Timberlake)
-Preview of Song: https://p.scdn.co/mp3-preview/66fcdde9a21b8b63fa4fdc995ac8c0b17c8b113f?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Paper Trail
-----------------
-Artist: Slipknot
-Song Name: Psychosocial
-Preview of Song: https://p.scdn.co/mp3-preview/ec1ef486abd160951e4ecaaa513f67243279577d?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: All Hope Is Gone
-----------------
-Artist: Sleeping At Last
-Song Name: Already Gone
-Preview of Song: https://p.scdn.co/mp3-preview/0755e6099906435aa781c5f27947d4b6e4345542?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Already Gone
-----------------
-Artist: Chris Cagle
-Song Name: What Kinda Gone
-Preview of Song: null
-Album Name: My Life's Been A Country Song
-----------------
-Foo Fighters
-----------------
-Venue: The Fillmore New Orleans
-Location: New Orleans, LA, United States
-Date: 02/15/2019
-----------------
-Venue: The Fillmore New Orleans
-Location: New Orleans, LA, United States
-Date: 02/16/2019
-----------------
-Venue: Hurricane Festival (21 June - 23 June)
-Location: Scheeßel, Germany
-Date: 06/21/2019
-----------------
-Venue: Southside Festival (21 June - 23 June)
-Location: Neuhausen Ob Eck, Germany
-Date: 06/23/2019
-----------------
-Phil Collins
-----------------
-Venue: The Fillmore Miami Beach
-Location: Miami Beach, FL, United States
-Date: 11/15/2018
-----------------
-Beck
-----------------
-Janet Jackson
-----------------
-Justin Timberlake
-----------------
-Venue: Rogers Place
-Location: Edmonton, Canada
-Date: 11/04/2018
-----------------
-Venue: Rogers Place
-Location: Edmonton, Canada
-Date: 11/05/2018
-----------------
-Venue: Rogers Arena
-Location: Vancouver, Canada
-Date: 11/08/2018
-----------------
-Venue: Rogers Arena
-Location: Vancouver, Canada
-Date: 11/09/2018
-----------------
-Venue: Tacoma Dome
-Location: Tacoma, WA, United States
-Date: 11/12/2018
-----------------
-Venue: Tacoma Dome
-Location: Tacoma, WA, United States
-Date: 11/13/2018
-----------------
-Venue: Moda Center
-Location: Portland, OR, United States
-Date: 11/16/2018
-----------------
-Venue: Golden 1 Center
-Location: Sacramento, CA, United States
-Date: 11/18/2018
-----------------
-Venue: Honda Center
-Location: Anaheim, CA, United States
-Date: 11/20/2018
-----------------
-Venue: Staples Center
-Location: Los Angeles, CA, United States
-Date: 11/27/2018
-----------------
-Venue: Talking Stick Resort Arena
-Location: Phoenix, AZ, United States
-Date: 11/29/2018
-----------------
-Venue: T-Mobile Arena
-Location: Las Vegas, NV, United States
-Date: 12/01/2018
-----------------
-Venue: Save Mart Center
-Location: Fresno, CA, United States
-Date: 12/03/2018
-----------------
-Venue: Oracle Arena
-Location: Oakland, CA, United States
-Date: 12/05/2018
-----------------
-Venue: CenturyLink Center Omaha
-Location: Omaha, NE, United States
-Date: 12/08/2018
-----------------
-Venue: Sprint Center
-Location: Kansas City, MO, United States
-Date: 12/10/2018
-----------------
-Venue: Scottrade Center
-Location: St Louis, MO, United States
-Date: 12/13/2018
-----------------
-Venue: Bankers Life Fieldhouse
-Location: Indianapolis, IN, United States
-Date: 12/14/2018
-----------------
-Venue: Wells Fargo Center
-Location: Philadelphia, PA, United States
-Date: 12/17/2018
-----------------
-Venue: KeyBank Center
-Location: Buffalo, NY, United States
-Date: 12/19/2018
-----------------
-Venue: Mohegan Sun Arena
-Location: Uncasville, CT, United States
-Date: 12/21/2018
-----------------
-Venue: Mohegan Sun Arena
-Location: Uncasville, CT, United States
-Date: 12/22/2018
-----------------
-Venue: Capital One Arena
-Location: Washington, DC, United States
-Date: 01/04/2019
-----------------
-Venue: PNC Arena
-Location: Raleigh, NC, United States
-Date: 01/06/2019
-----------------
-Venue: Spectrum Center
-Location: Charlotte, NC, United States
-Date: 01/08/2019
-----------------
-Venue: Philips Arena
-Location: Atlanta, GA, United States
-Date: 01/10/2019
-----------------
-Venue: FedExForum
-Location: Memphis, TN, United States
-Date: 01/12/2019
-----------------
-Venue: Smoothie King Center
-Location: New Orleans, LA, United States
-Date: 01/15/2019
-----------------
-Venue: Verizon Arena
-Location: North Little Rock, AR, United States
-Date: 01/17/2019
-----------------
-Venue: AT&T Center
-Location: San Antonio, TX, United States
-Date: 01/19/2019
-----------------
-Venue: Toyota Center
-Location: Houston, TX, United States
-Date: 01/22/2019
-----------------
-Venue: American Airlines Center
-Location: Dallas, TX, United States
-Date: 01/24/2019
-----------------
-Venue: Chesapeake Energy Arena
-Location: Oklahoma City, OK, United States
-Date: 01/26/2019
-----------------
-Venue: Pepsi Center
-Location: Denver, CO, United States
-Date: 01/28/2019
-----------------
-Venue: Madison Square Garden
-Location: New York, NY, United States
-Date: 01/31/2019
-----------------
-Foo Fighters
-----------------
-Venue: The Fillmore New Orleans
-Location: New Orleans, LA, United States
-Date: 02/15/2019
-----------------
-Venue: The Fillmore New Orleans
-Location: New Orleans, LA, United States
-Date: 02/16/2019
-----------------
-Venue: Hurricane Festival (21 June - 23 June)
-Location: Scheeßel, Germany
-Date: 06/21/2019
-----------------
-Venue: Southside Festival (21 June - 23 June)
-Location: Neuhausen Ob Eck, Germany
-Date: 06/23/2019
-----------------
-Lady Gaga
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 12/28/2018
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 12/30/2018
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 12/31/2018
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 01/17/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 01/19/2019
-----------------
-Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ PIANO
-Location: Las Vegas, NV, United States
-Date: 01/19/2019
-----------------
-Venue: LADY GAGA JAZZ & PIANO
-Location: Las Vegas, NV, United States
-Date: 01/20/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 01/24/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 01/26/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 01/31/2019
-----------------
-Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ PIANO
-Location: Las Vegas, NV, United States
-Date: 02/02/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 02/02/2019
-----------------
-Venue: LADY GAGA JAZZ & PIANO
-Location: Las Vegas, NV, United States
-Date: 02/03/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 05/30/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 06/01/2019
-----------------
-Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ PIANO
-Location: Las Vegas, NV, United States
-Date: 06/01/2019
-----------------
-Venue: LADY GAGA JAZZ & PIANO
-Location: Las Vegas, NV, United States
-Date: 06/02/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 06/06/2019
-----------------
-Venue: LADY GAGA FULL LAS VEGAS EXPERIENCE: ENIGMA & JAZZ PIANO
-Location: Las Vegas, NV, United States
-Date: 06/08/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 06/08/2019
-----------------
-Venue: LADY GAGA JAZZ & PIANO
-Location: Las Vegas, NV, United States
-Date: 06/09/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 06/12/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 06/14/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 10/17/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 10/19/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 10/23/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 10/25/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 10/31/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 11/02/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 11/06/2019
-----------------
-Venue: LADY GAGA ENIGMA
-Location: Las Vegas, NV, United States
-Date: 11/08/2019
-----------------
-U2
-----------------
-Venue: 3Arena
-Location: Dublin, Ireland
-Date: 11/05/2018
-----------------
-Venue: 3Arena
-Location: Dublin, Ireland
-Date: 11/06/2018
-----------------
-Venue: 3Arena
-Location: Dublin, Ireland
-Date: 11/09/2018
-----------------
-Venue: 3Arena
-Location: Dublin, Ireland
-Date: 11/10/2018
-----------------
-Venue: Mercedes-Benz Arena Berlin
-Location: Berlin, Germany
-Date: 11/13/2018
-----------------
-Kendrick Lamar
-----------------
-Green Day
+Weird Al
 ----------------
 Drake
 ----------------
@@ -974,109 +38,117 @@ Venue: Accorhotels Arena
 Location: Paris, France
 Date: 03/08/2019
 ----------------
-Dreamlover
+Sabotage
 ----------------
-Artist: Mariah Carey
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/ba2a62270ae31307f97a35aa768f1be4377e9317?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Music Box
+Artist: Beastie Boys
+Song Name: Sabotage
+Preview of Song: null
+Album Name: Ill Communication
 ----------------
-Artist: Mariah Carey
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/ab8dba3824344a46e3baa0af27561a7202e4b2b3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Greatest Hits
+Artist: Tove Lo
+Song Name: Habits (Stay High) - Hippie Sabotage Remix
+Preview of Song: null
+Album Name: Queen Of The Clouds
 ----------------
-Artist: Mariah Carey
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/b0cd634bfb5c0fb4eaebf7809a17c8462ea1e8ab?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: #1 to Infinity
+Artist: Hippie Sabotage
+Song Name: Devil Eyes
+Preview of Song: https://p.scdn.co/mp3-preview/dd5388e277a341836ccc2002458944a163121cc5?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Providence
 ----------------
-Artist: Various Artists
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/ab8dba3824344a46e3baa0af27561a7202e4b2b3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Love Songs
+Artist: Hippie Sabotage
+Song Name: Your Soul
+Preview of Song: https://p.scdn.co/mp3-preview/bcf335515add42ce63fa43794caea07decd600ba?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: The Sunny Album (Deluxe Edition)
 ----------------
-Artist: Mariah Carey
-Song Name: Dreamlover - Def Club Mix
-Preview of Song: https://p.scdn.co/mp3-preview/84ec234d7b7330347b3012db1d6c30d85ec8240e?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: The Remixes
+Artist: Hippie Sabotage
+Song Name: Drifter
+Preview of Song: https://p.scdn.co/mp3-preview/c698ac30a508763ea95f7dda0a91b1068150ed9c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Drifter
 ----------------
-Artist: Roses
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/33b8739dcca2b59b54fce8e65d34a07542bde655?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Camera Trouble
+Artist: Hippie Sabotage
+Song Name: Options
+Preview of Song: https://p.scdn.co/mp3-preview/e498fc10f78f45fc4190d850466282fee13bfd44?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Options
 ----------------
-Artist: Various Artists
-Song Name: Dreamlover - Fitness Version
-Preview of Song: https://p.scdn.co/mp3-preview/5c6344c2b5389686631cb278864e7ff91b78cfe7?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Energy of Aqua Gym 128 BPM Oldies Hits Session
+Artist: Hippie Sabotage
+Song Name: Running Miles
+Preview of Song: https://p.scdn.co/mp3-preview/10d864d9b16cac1c252c9fd66e2955e51d670781?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Running Miles
 ----------------
-Artist: Roses
-Song Name: Florence Girls
-Preview of Song: https://p.scdn.co/mp3-preview/8854a93d1b3bb8bb3b1045e191bb6a2bab3a9afc?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Dreamlover
+Artist: Hippie Sabotage
+Song Name: Ridin Solo - Njomza Remix
+Preview of Song: https://p.scdn.co/mp3-preview/3ed52b447ea8b3f19613f1acb3752ba9d4e7d172?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: The Sunny Album (Deluxe Edition)
 ----------------
-Artist: KARA
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/0ba0c758972aba5171a4946313c33834ddf28565?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: KARA 7th Mini Album 'In Love'
+Artist: Hippie Sabotage
+Song Name: Different
+Preview of Song: https://p.scdn.co/mp3-preview/f1e22f4ecb8c405c0e9f0692f542c93683523c3b?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Drifter
 ----------------
-Artist: Roses
-Song Name: It's Over
-Preview of Song: https://p.scdn.co/mp3-preview/298fe1bd20b55b0dde3c6e0831f6cce048424024?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Dreamlover
+Artist: Hippie Sabotage
+Song Name: High Enough
+Preview of Song: https://p.scdn.co/mp3-preview/ccf1268e58903b3b5a0b639a130f03fcaab35a68?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Options
 ----------------
-Artist: Judson Mancebo
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/9a381431228a4c48f663106326a9f36597a21dfa?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Babies Lullabies - Soothing Versions of Famous Songs for Rest and Sleep, Vol. 5
+Artist: Hippie Sabotage
+Song Name: Able to See Me
+Preview of Song: https://p.scdn.co/mp3-preview/bf22d24138f95d3c61d6f4df27a53e168c3935cb?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Able to See Me
 ----------------
-Artist: Guy Neve
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/885497bf65735ce9be819c732f01b294f94caab0?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Vitaal
+Artist: GRAACE
+Song Name: SOS
+Preview of Song: https://p.scdn.co/mp3-preview/82795bd0f8ff686f4e46e53c6c4dcb557e015ab8?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Self-Sabotage
 ----------------
-Artist: Baby Music from I'm In Records
-Song Name: Dreamlover - Lullaby Version
-Preview of Song: https://p.scdn.co/mp3-preview/676110f036b479355efabfb97fcd744e992dcb32?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Baby Music: 90's Hits in Lullaby Mode
+Artist: Alex Wiley
+Song Name: Real Things
+Preview of Song: https://p.scdn.co/mp3-preview/d26e1a66b66df3b11e69c17f8bf7ab94268ab6c8?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Real Things
 ----------------
-Artist: Baby Music from I'm In Records
-Song Name: Dreamlover - Lullaby Version
-Preview of Song: https://p.scdn.co/mp3-preview/676110f036b479355efabfb97fcd744e992dcb32?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Lullaby Renditions of Mariah Carey
+Artist: Hippie Sabotage
+Song Name: Real Things
+Preview of Song: https://p.scdn.co/mp3-preview/d26e1a66b66df3b11e69c17f8bf7ab94268ab6c8?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Real Things
 ----------------
-Artist: Roses
-Song Name: Icicle
-Preview of Song: https://p.scdn.co/mp3-preview/cb00ec5c0971c6f6e8bf0f7739ff31575e193912?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Dreamlover
+Artist: Hippie Sabotage
+Song Name: Waiting Too Long
+Preview of Song: https://p.scdn.co/mp3-preview/3eb6b08a041d48edefbb34316dec7b30e158a782?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Waiting Too Long
 ----------------
-Artist: Roses
-Song Name: The Fog
-Preview of Song: https://p.scdn.co/mp3-preview/9e95781b9eb9cf0ca3b05dd676778810ce3279ae?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Dreamlover
+Artist: Tove Lo
+Song Name: Habits (Stay High) - Hippie Sabotage Remix
+Preview of Song: null
+Album Name: Queen Of The Clouds
 ----------------
-Artist: Various Artists
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/14a74404ca18799ed0ea2514027469ad3fd261cc?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Romantic Songs for Valentine's Day
+Artist: Hippie Sabotage
+Song Name: Lights Out
+Preview of Song: https://p.scdn.co/mp3-preview/e5bd1edb325628836c987d7012bf66e99495bb60?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Drifter
 ----------------
-Artist: Blue Thyme
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/8f041f5f89d7d9460fd49574197b3bfd09c1793c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Through the Night
+Artist: Wale
+Song Name: Sabotage (feat. Lloyd)
+Preview of Song: https://p.scdn.co/mp3-preview/2674df14f28424c32aa7dbfb27111fa14ab3cac9?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Ambition
 ----------------
-Artist: The Relaxation Factory
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/204a22880468d9eccee1447dd095069a8e47949a?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Labor Of Love - Instrumentals, Vol. 1 (Soothing Songs to Help You Through Child Birth)
+Artist: Azizi Gibson
+Song Name: Hood Opera
+Preview of Song: https://p.scdn.co/mp3-preview/45ba20d67737fe4cbd6efefba973fe4c216c2109?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Hentai
 ----------------
-Artist: Various Artists
-Song Name: Dreamlover
-Preview of Song: https://p.scdn.co/mp3-preview/dc2c6bdfa15a428ecd5dc79042d5145b1c4765ce?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Fifty Shades of Gay - Backing Tracks for Happy Campers, Vol. 3
+Artist: Hippie Sabotage
+Song Name: Hood Opera
+Preview of Song: https://p.scdn.co/mp3-preview/45ba20d67737fe4cbd6efefba973fe4c216c2109?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Hentai
 ----------------
-Bohemian Rhapsody
+Artist: Hippie Sabotage
+Song Name: The Darkness
+Preview of Song: https://p.scdn.co/mp3-preview/a5acebcefad6cf6859f904cb73dfaa2b2c227c16?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Drifter
+----------------
+Artist: Hippie Sabotage
+Song Name: Chasing the Wild
+Preview of Song: https://p.scdn.co/mp3-preview/251ce563bf743ac90da14c815c45fa048410b110?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Drifter
 ----------------
 Jaws
 ----------------
@@ -1089,132 +161,6 @@ Language: English
 Plot: A local sheriff, a marine biologist and an old seafarer team up to hunt down a great white shark wreaking havoc in a beach resort.
 Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
 ----------------
-"I Want it That Way"Venue Name: Rogers Place
-
-Venue Location: Edmonton
-----------------
-"I Want it That Way"
-
-----------------
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: The Hits--Chapter One
-----------------
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Millennium
-----------------
-Artist: Anthem Lights
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Covers Part IV
-----------------
-Artist: Tyler and Mark
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Beautiful Dreams
-----------------
-Artist: Various Artists
-Song Name: I Want It That Way
-Preview of Song: null
-Album Name: Punk Goes Pop
-----------------
-Artist: "Weird Al" Yankovic
-Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-Preview of Song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Poodle Hat
-----------------
-Artist: Manuel Costa
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: I Want It That Way
-----------------
-Artist: Various Artists
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: 90 Sweet 90s Hits!
-----------------
-Artist: NKOTBSB
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: NKOTBSB
-----------------
-Artist: New Kids On The Block
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: NKOTBSB
-----------------
-Artist: Backstreet Boys
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: NKOTBSB
-----------------
-Artist: Boyce Avenue
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Cover Sessions, Vol. 2
-----------------
-Artist: Glee Cast
-Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-Preview of Song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-----------------
-Artist: Steel Panther
-Song Name: I Want It That Way
-Preview of Song: null
-Album Name: I Want It That Way
-----------------
-Artist: Landon Austin
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: I Want It That Way
-----------------
-Artist: Julia Sheer
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: I Want It That Way
-----------------
-Artist: Scary Pockets
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Nu Funk
-----------------
-Artist: Scott Bradlee's Postmodern Jukebox
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Selfies on Kodachrome
-----------------
-Artist: "Weird Al" Yankovic
-Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
-Preview of Song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: The Essential "Weird Al" Yankovic
-----------------
-Artist: Various Artists
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: NOW That's What I Call 90s Pop
-----------------
-Artist: The Cooltrane Quartet
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/d29c9d24ac633386d7b1a1fda6e49500aa84048a?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: Cocktails & Dreams
-----------------
-Artist: #90s Update
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: #90s Update
-----------------
-Artist: Scott Bradlee's Postmodern Jukebox
-Song Name: I Want It That Way
-Preview of Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
-Album Name: PMJ Is For Lovers: The Love Song Collection
-----------------
-"I Want it That Way"
-
-concert-this
-----------------
 "I Want it That Way"
 ----------------
 Artist: Backstreet Boys
@@ -1332,122 +278,222 @@ Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: PMJ Is For Lovers: The Love Song Collection
 ----------------
-"I Want it That Way";
-
-concert-this
+"Rhythm Nation"
 ----------------
+Artist: Janet Jackson
+Song Name: Rhythm Nation
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Escapade
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Miss You Much
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Love Will Never Do (Without You)
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Black Cat
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Come Back To Me
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Alright
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Glee Cast
+Song Name: Nasty / Rhythm Nation (Glee Cast Version)
+Preview of Song: https://p.scdn.co/mp3-preview/c04f0837a47034c13ec12c36d49201954e3b864d?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Nasty / Rhythm Nation (Glee Cast Version)
+----------------
+Artist: Various Artists
+Song Name: Under Pressure / Rhythm Nation
+Preview of Song: https://p.scdn.co/mp3-preview/b1672b518907ba1fb059bdda52cab43693156fe9?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
+Album Name: Happy Feet Two: Original Motion Picture Soundtrack
+----------------
+Artist: Janet Jackson
+Song Name: Rhythm Nation - Single Edit with Pledge
+Preview of Song: null
+Album Name: Number Ones
+----------------
+Artist: Janet Jackson
+Song Name: Lonely
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: State Of The World
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Someday Is Tonight
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Rhythm Nation - Extended Version
+Preview of Song: null
+Album Name: Design Of A Decade 1986/1996
+----------------
+Artist: Janet Jackson
+Song Name: The Knowledge
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Rhythm Nation - Extended Version
+Preview of Song: null
+Album Name: Design Of A Decade 1986/1996
+----------------
+Artist: Janet Jackson
+Song Name: Livin' In A World (They Didn't Make)
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Interlude: Pledge
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Janet Jackson
+Song Name: Interlude: Livin'...In Complete Darkness
+Preview of Song: null
+Album Name: Rhythm Nation 1814
+----------------
+Artist: Chris Blue
+Song Name: Rhythm Nation - The Voice Performance
+Preview of Song: null
+Album Name: The Complete Season 12 Collection (The Voice Performance)
+----------------
+"I Want It That Way"
+-----------
 Artist: Backstreet Boys
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: The Hits--Chapter One
-----------------
+-----------
 Artist: Backstreet Boys
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: Millennium
-----------------
+-----------
 Artist: Anthem Lights
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: Covers Part IV
-----------------
+-----------
 Artist: Tyler and Mark
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: Beautiful Dreams
-----------------
+-----------
 Artist: Various Artists
 Song Name: I Want It That Way
 Preview of Song: null
 Album Name: Punk Goes Pop
-----------------
+-----------
 Artist: "Weird Al" Yankovic
 Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
 Preview of Song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: Poodle Hat
-----------------
+-----------
 Artist: Manuel Costa
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: I Want It That Way
-----------------
+-----------
 Artist: Various Artists
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: 90 Sweet 90s Hits!
-----------------
+-----------
 Artist: NKOTBSB
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: NKOTBSB
-----------------
+-----------
 Artist: New Kids On The Block
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: NKOTBSB
-----------------
+-----------
 Artist: Backstreet Boys
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: NKOTBSB
-----------------
+-----------
 Artist: Boyce Avenue
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: Cover Sessions, Vol. 2
-----------------
+-----------
 Artist: Glee Cast
 Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
 Preview of Song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
-----------------
+-----------
 Artist: Steel Panther
 Song Name: I Want It That Way
 Preview of Song: null
 Album Name: I Want It That Way
-----------------
+-----------
 Artist: Landon Austin
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: I Want It That Way
-----------------
+-----------
 Artist: Julia Sheer
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: I Want It That Way
-----------------
+-----------
 Artist: Scary Pockets
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: Nu Funk
-----------------
+-----------
 Artist: Scott Bradlee's Postmodern Jukebox
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: Selfies on Kodachrome
-----------------
+-----------
 Artist: "Weird Al" Yankovic
 Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
 Preview of Song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: The Essential "Weird Al" Yankovic
-----------------
+-----------
 Artist: Various Artists
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: NOW That's What I Call 90s Pop
-----------------
+-----------
 Artist: The Cooltrane Quartet
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/d29c9d24ac633386d7b1a1fda6e49500aa84048a?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: Cocktails & Dreams
-----------------
+-----------
 Artist: #90s Update
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: #90s Update
-----------------
+-----------
 Artist: Scott Bradlee's Postmodern Jukebox
 Song Name: I Want It That Way
 Preview of Song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=75d09b9b71b94fda9bdadcb5a4d9d6b8
 Album Name: PMJ Is For Lovers: The Love Song Collection
-----------------
+-----------
