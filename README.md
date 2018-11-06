@@ -6,7 +6,9 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 ######concert-this
+
 ![Concert This](https://raw.githubusercontent.com/gmaghari/liri-node-app/master/images/concert.png)
 
 ######spotify-this-song
+
 ![Concert This](https://raw.githubusercontent.com/gmaghari/liri-node-app/master/images/spotify.png)
