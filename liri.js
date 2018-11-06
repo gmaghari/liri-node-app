@@ -15,7 +15,7 @@ var arguments = process.argv;
 var firstInput = "";
 var secondInput = "";
 
-//Names and Titles entered
+//Names and Titles inputed
 for (var i = 3; i < arguments.length; i++) {
     if (i > 3 && i < arguments.length) {
         firstInput = firstInput + "%20" + arguments[i];
@@ -50,8 +50,7 @@ function runLiri() {
                 if (!error && response.statusCode === 200) {
                     var data = JSON.parse(body);
                     for (var i = 0; i < data.length; i++) {
-                        
-                        //Venue name result
+
                         console.log("Venue: " + data[i].venue.name);
                         fs.appendFileSync("log.txt", "Venue: " + data[i].venue.name + "\n", function (error) {
                             if (error) {
@@ -59,7 +58,6 @@ function runLiri() {
                             };
                         });
 
-                        //Venue location result
                         if (data[i].venue.region == "") {
                             console.log("Location: " + data[i].venue.city + ", " + data[i].venue.country);
                             fs.appendFileSync("log.txt", "Location: " + data[i].venue.city + ", " + data[i].venue.country + "\n", function (error) {
@@ -77,7 +75,6 @@ function runLiri() {
                             });
                         }
 
-                        //Concert date result
                         var date = data[i].datetime;
                         date = moment(date).format("MM/DD/YYYY");
                         console.log("Date: " + date)
@@ -90,24 +87,21 @@ function runLiri() {
                     }
                 }
             });
-
             break;
+
         case "spotify-this-song":
         console.log("here");
             if (!firstInput) {
                 firstInput = "The%20Sign";
                 secondInput = firstInput.replace(/%20/g, " ");
             }
-
             fs.appendFileSync("log.txt", secondInput + "\n-----------\n", function (error) {
                 if (error) {
                     console.log(error);
                 };
             });
-
             console.log(spotify);
             spotify.search({
-
                 type: "track",
                 query: firstInput
             }, function (err, data) {
@@ -149,8 +143,8 @@ function runLiri() {
                     console.log(error);
                 };
             });
-
-            //Search request to OMDB
+            
+            //Search function for OMDB
             var queryURL = "https://www.omdbapi.com/?t=" + firstInput + "&y=&plot=short&apikey=trilogy"
             request(queryURL, function (error, response, body) {
                 if (!error && response.statusCode === 200) {
